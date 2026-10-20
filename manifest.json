@@ -1,0 +1,16 @@
+JSON
+{
+  "name": "Aether Weather Pro",
+  "short_name": "Aether",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1534081333815-ae5019106622?w=192&h=192&fit=crop",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
